@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WaterDiaryApp</string>
+    <string name="add_entry">Add Entry</string>
+    <string name="total_water">Total used</string>
+    <string name="average_water">avg  use</string>
+    <string name="shower_water">Shower</string>
+    <string name="toilet_water">Toilet</string>
+    <string name="hygiene">Hygiene</string>
+    <string name="laundry_water">Laundry</string>
+    <string name="dishes">Dishes</string>
+    <string name="drinking">Drinking</string>
+    <string name="cooking">Cooking</string>
+    <string name="Cleaning">Cleaning</string>
+    <string name="other">Other</string>
+    <string name="calculator">Calculator</string>
+    <string name="home_button">Overview</string>
+    <string name="Save_button">Save</string>
+    <string name="diary_list">Diary List</string>
+    <string name="date_input">Date</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+</resources>
